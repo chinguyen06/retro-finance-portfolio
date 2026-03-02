@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/retro-finance-portfolio/", // 👈 thêm dòng này
+  base: "/retro-finance-portfolio/", 
 
   server: {
     host: "::",
