@@ -10,8 +10,7 @@ const skills = [
 ];
 
 const tools = [
-  "Excel", "Python", "Bloomberg", "FactSet",
-  "Stata", "R", "Power BI", "SQL",
+  "Excel", "Python", "SQL", "SmartPLS",
 ];
 
 const SkillsSection = () => {
@@ -69,7 +68,7 @@ const SkillsSection = () => {
                 {[
                   "CFA Level I Candidate",
                   "Financial Risk Manager (FRM)",
-                  "Bloomberg Market Concepts",
+                  "IELTS",
                   "Advanced Excel Certification",
                 ].map((cert) => (
                   <li key={cert} className="flex items-center gap-2">

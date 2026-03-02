@@ -10,7 +10,7 @@ const HeroSection = () => {
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold font-display leading-tight mb-6">
           <span className="text-foreground">Hello, I'm</span>
           <br />
-          <span className="text-primary text-glow">[Your Name]</span>
+          <span className="text-primary text-glow">Nguyen Mai Chi</span>
         </h1>
         <div className="text-xl md:text-2xl font-display mb-8 h-10">
           <TypewriterText
