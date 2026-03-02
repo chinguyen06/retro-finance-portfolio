@@ -5,6 +5,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -30,7 +33,7 @@
     --muted: 300 8% 30%;
     --muted-foreground: 330 15% 65%;
 
-    --accent: 340 70% 15%;
+    --accent: 336 74.4444% 35.2941%;
     --accent-foreground: 340 80% 70%;
 
     --destructive: 0 72% 50%;
